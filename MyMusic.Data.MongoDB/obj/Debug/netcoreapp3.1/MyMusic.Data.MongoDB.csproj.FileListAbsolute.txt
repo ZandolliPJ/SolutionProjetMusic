@@ -1,0 +1,39 @@
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.deps.json
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CopyComplete
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.deps.json
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CopyComplete
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MysMusic.Core.dll
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MysMusic.Core.pdb
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.deps.json
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MysMusic.Core.dll
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MysMusic.Core.pdb
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\Administrateur\Desktop\ProjetAPI_MVC_CLIENT\Projet API\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb

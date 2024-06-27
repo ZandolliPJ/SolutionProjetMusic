@@ -1,0 +1,19 @@
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.deps.json
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\Administrateur\source\repos\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.pdb
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.deps.json
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\PC\Desktop\Projet API\SolutionProjetMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.pdb
